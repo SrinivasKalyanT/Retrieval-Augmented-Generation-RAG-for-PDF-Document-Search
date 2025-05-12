@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.env
+*.pth
+*.pt
+*.h5
+.cache/
