@@ -15,3 +15,4 @@ This project is a **PDF-based Question Answering system** powered by **Retrieval
 - Extract and chunk document content.
 - Create and persist vector embeddings using FAISS.
 - Ask natural language questions and receive contextual answers.
+- Uses a lightweight TinyLlama model for efficient inference.
